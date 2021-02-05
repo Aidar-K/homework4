@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4</string>
+    <string name="zametki">Заметки</string>
+    <string name="et1">Введите загаловок</string>
+    <string name="et2">Введите описание</string>
+    <string name="et3">Введите описание</string>
+    <string name="btn">Добавить</string>
+</resources>
